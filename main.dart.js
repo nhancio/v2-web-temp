@@ -38998,7 +38998,7 @@ r=j.a1k(a,"Your gender*",n?o*0.45:1/0)
 o=n?o*0.45:1/0
 q=t.p
 o=A.uT(B.hM,A.b([i,s,r,j.NR(j.f,B.yK,"Age",o)],q),15,15)
-r=A.aw("Upload your profile picture*",p,p,p,p,A.j6(a).xz(16,B.R),p,p)
+r=A.aw("Upload your profile picture",p,p,p,p,A.j6(a).xz(16,B.R),p,p)
 i=j.w
 s=i==null
 i=!s?new A.mi(i):p
